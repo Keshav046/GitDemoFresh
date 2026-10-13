@@ -1,1 +1,1 @@
-Welcome to the application
+Feature A added
