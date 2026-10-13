@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Feature A added
+=======
+Feature B added
+>>>>>>> feature-B
